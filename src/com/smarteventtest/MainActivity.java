@@ -16,7 +16,7 @@ import android.widget.ImageButton;
 import android.widget.ImageView;
 import android.widget.TextView;
 import android.widget.Toast;
-
+//smart v4 -- test
 public class MainActivity extends Activity {
 	private TextView text;
 	private ImageView img;

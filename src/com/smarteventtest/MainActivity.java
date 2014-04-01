@@ -30,7 +30,7 @@ public class MainActivity extends Activity {
 		Button button = (Button) findViewById(R.id.button1);
 		Button button2 = (Button) findViewById(R.id.button2);
 		img = (ImageView) findViewById(R.id.imageView1);
-		//test change for git 
+		//test change for git mm
 
 		gestureDetector = new GestureDetector(new OnGestureListener() {
 
